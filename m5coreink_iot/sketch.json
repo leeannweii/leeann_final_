@@ -1,0 +1,26 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:m5stack-coreink:DebugLevel=none,PartitionScheme=default,UploadSpeed=921600",
+    "name": "M5Stack-CoreInk",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_AIO_USERNAME",
+      "value": ""
+    },
+    {
+      "name": "SECRET_AIO_KEY",
+      "value": ""
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_PASS",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
